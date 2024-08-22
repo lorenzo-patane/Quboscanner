@@ -4,7 +4,7 @@ It uses my library [mcping](https://github.com/replydev/mcping) to mass scan the
 
 ## Download
 
-You can download Quboscaner in the [releases page](https://github.com/replydev/Quboscanner/releases/) \
+You can download Quboscanner in the [releases page](https://github.com/replydev/Quboscanner/releases/) \
 Or alternatively you can [build from source](#building)
 
 ## Usage
